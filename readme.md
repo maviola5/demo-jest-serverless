@@ -4,14 +4,14 @@
 ### Function: Dictionary
 GET - https://xx935xk8f5.execute-api.us-east-1.amazonaws.com/dev/dictionary
 
-Params: word<string>
+Params: word`<string>`
 
 Example: https://xx935xk8f5.execute-api.us-east-1.amazonaws.com/dev/dictionary?word=hopscotch
 
 ### Function: Weather
 GET - https://xx935xk8f5.execute-api.us-east-1.amazonaws.com/dev/weather
 
-Params: location<string>
+Params: location`<string>`
 
 Example: https://xx935xk8f5.execute-api.us-east-1.amazonaws.com/dev/weather?location=los%20angeles
 
