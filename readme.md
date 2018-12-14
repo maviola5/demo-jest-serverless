@@ -1,14 +1,14 @@
 # Serverless Demo with Jest Test Suite
 
 ## Public endpoints
-Function: Dictionary
+### Function: Dictionary
 GET - https://xx935xk8f5.execute-api.us-east-1.amazonaws.com/dev/dictionary
 
 Params: word<string>
 
 Example: https://xx935xk8f5.execute-api.us-east-1.amazonaws.com/dev/dictionary?word=hopscotch
 
-Function: Weather
+### Function: Weather
 GET - https://xx935xk8f5.execute-api.us-east-1.amazonaws.com/dev/weather
 
 Params: location<string>
