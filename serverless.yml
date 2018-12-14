@@ -1,0 +1,21 @@
+service: demo-jest-serverless
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+
+functions:
+  dictionary:
+    handler: src/functions/dictionary.handler
+    events:
+    - http:
+        path: dictionary
+        method: get
+        cors: true
+  weather:
+    handler: src/functions/weather.handler
+    events:
+    - http:
+        path: weather
+        method: get
+        cors: true

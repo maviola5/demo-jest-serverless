@@ -1,0 +1,165 @@
+{
+  "consolidated_weather": [
+    {
+      "id": 5167163161706496,
+      "weather_state_name": "Heavy Cloud",
+      "weather_state_abbr": "hc",
+      "wind_direction_compass": "SE",
+      "created": "2018-12-13T18:42:50.988823Z",
+      "applicable_date": "2018-12-13",
+      "min_temp": 20.38333333333333,
+      "max_temp": 25.58,
+      "the_temp": 26.435,
+      "wind_speed": 8.53798089679737,
+      "wind_direction": 138.29504672941675,
+      "air_pressure": 1026.98,
+      "humidity": 60,
+      "visibility": 14.80696482541955,
+      "predictability": 71
+    },
+    {
+      "id": 4831056200990720,
+      "weather_state_name": "Showers",
+      "weather_state_abbr": "s",
+      "wind_direction_compass": "SSE",
+      "created": "2018-12-13T18:42:53.219092Z",
+      "applicable_date": "2018-12-14",
+      "min_temp": 22.2,
+      "max_temp": 27.526666666666667,
+      "the_temp": 27.83,
+      "wind_speed": 12.519824643532438,
+      "wind_direction": 150.85419427832574,
+      "air_pressure": 1024.8600000000001,
+      "humidity": 71,
+      "visibility": 12.115184820647418,
+      "predictability": 73
+    },
+    {
+      "id": 5608704690880512,
+      "weather_state_name": "Heavy Rain",
+      "weather_state_abbr": "hr",
+      "wind_direction_compass": "SSW",
+      "created": "2018-12-13T18:42:57.418699Z",
+      "applicable_date": "2018-12-15",
+      "min_temp": 20.28,
+      "max_temp": 26.330000000000002,
+      "the_temp": 26.155,
+      "wind_speed": 7.165657497505236,
+      "wind_direction": 209.30011764510087,
+      "air_pressure": 1024.6,
+      "humidity": 79,
+      "visibility": 11.340956315119701,
+      "predictability": 77
+    },
+    {
+      "id": 6043719715258368,
+      "weather_state_name": "Showers",
+      "weather_state_abbr": "s",
+      "wind_direction_compass": "NW",
+      "created": "2018-12-13T18:43:00.125601Z",
+      "applicable_date": "2018-12-16",
+      "min_temp": 18.05666666666667,
+      "max_temp": 23.16,
+      "the_temp": 22.11,
+      "wind_speed": 6.735838517808002,
+      "wind_direction": 310.89796969129685,
+      "air_pressure": 1027.185,
+      "humidity": 72,
+      "visibility": 14.204545454545455,
+      "predictability": 73
+    },
+    {
+      "id": 4544916520697856,
+      "weather_state_name": "Light Cloud",
+      "weather_state_abbr": "lc",
+      "wind_direction_compass": "NNW",
+      "created": "2018-12-13T18:43:02.839119Z",
+      "applicable_date": "2018-12-17",
+      "min_temp": 15.540000000000001,
+      "max_temp": 21.463333333333335,
+      "the_temp": 19.83,
+      "wind_speed": 6.913069816975529,
+      "wind_direction": 332.17023559679825,
+      "air_pressure": 1028.005,
+      "humidity": 66,
+      "visibility": 14.736439195100612,
+      "predictability": 70
+    },
+    {
+      "id": 6734604597723136,
+      "weather_state_name": "Showers",
+      "weather_state_abbr": "s",
+      "wind_direction_compass": "NNW",
+      "created": "2018-12-13T18:43:06.132328Z",
+      "applicable_date": "2018-12-18",
+      "min_temp": 14.493333333333334,
+      "max_temp": 21.51,
+      "the_temp": 19.66,
+      "wind_speed": 5.489403881333015,
+      "wind_direction": 347.0,
+      "air_pressure": 1034.07,
+      "humidity": 56,
+      "visibility": 9.997862483098704,
+      "predictability": 73
+    }
+  ],
+  "time": "2018-12-13T14:54:17.248082-05:00",
+  "sun_rise": "2018-12-13T06:58:35.051329-05:00",
+  "sun_set": "2018-12-13T17:31:46.103123-05:00",
+  "timezone_name": "LMT",
+  "parent": {
+    "title": "Florida",
+    "location_type": "Region / State / Province",
+    "woeid": 2347568,
+    "latt_long": "27.9758,-81.541061"
+  },
+  "sources": [
+    {
+      "title": "BBC",
+      "slug": "bbc",
+      "url": "http://www.bbc.co.uk/weather/",
+      "crawl_rate": 180
+    },
+    {
+      "title": "Forecast.io",
+      "slug": "forecast-io",
+      "url": "http://forecast.io/",
+      "crawl_rate": 480
+    },
+    {
+      "title": "HAMweather",
+      "slug": "hamweather",
+      "url": "http://www.hamweather.com/",
+      "crawl_rate": 360
+    },
+    {
+      "title": "Met Office",
+      "slug": "met-office",
+      "url": "http://www.metoffice.gov.uk/",
+      "crawl_rate": 180
+    },
+    {
+      "title": "OpenWeatherMap",
+      "slug": "openweathermap",
+      "url": "http://openweathermap.org/",
+      "crawl_rate": 360
+    },
+    {
+      "title": "World Weather Online",
+      "slug": "world-weather-online",
+      "url": "http://www.worldweatheronline.com/",
+      "crawl_rate": 360
+    },
+    {
+      "title": "Yahoo",
+      "slug": "yahoo",
+      "url": "http://weather.yahoo.com/",
+      "crawl_rate": 180
+    }
+  ],
+  "title": "Miami",
+  "location_type": "City",
+  "woeid": 2450022,
+  "latt_long": "25.728979,-80.237419",
+  "timezone": "America/New_York"
+}

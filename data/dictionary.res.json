@@ -1,0 +1,78 @@
+[
+  {
+    "meta": {
+      "id": "homey:2",
+      "uuid": "c56540b2-6268-4c00-91be-c632ba163702",
+      "sort": "080237700",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "homey",
+        "homeys",
+        "homie",
+        "homies"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "homey",
+      "prs": [
+        {
+          "mw": "ˈhō-mē",
+          "sound": {
+            "audio": "homey001",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "vrs": [
+      {
+        "vl": "or",
+        "va": "hom*ie"
+      }
+    ],
+    "fl": "noun",
+    "ins": [
+      {
+        "il": "plural",
+        "if": "homeys"
+      },
+      {
+        "il": "or",
+        "if": "hom*ies"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{sx|homeboy||}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "et": [
+      [
+        "text",
+        "by shortening & alteration"
+      ]
+    ],
+    "date": "1929",
+    "shortdef": [
+      "homeboy"
+    ]
+  }
+]
